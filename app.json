@@ -1,6 +1,6 @@
 {
-  "name": "Telescope",
-  "description": "An open-source community app built with Meteor",
+  "name": "Kiyanna",
+  "description": "Crowdsourcing public issues in Sri Lanka",
   "repository": "https://github.com/TelescopeJS/Telescope/",
   "logo": "http://www.telescopeapp.org/images/logo.png",
   "keywords": ["meteor", "social", "community"],
