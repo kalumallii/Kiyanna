@@ -8,7 +8,7 @@
   "posted_date" : "Posted Date",
   "posted_time" : "Posted Time",
   "createdAt" : "Created At",
-  "url" : "URL",
+  "url" : "URL (not required)",
   "body" : "Body",
   "htmlBody" : "HTML Body",
   "viewCount" : "View Count",
